@@ -1,0 +1,127 @@
+.container {
+    width: 1170px;
+    margin: 0 auto;
+    justify-content: space-between;
+  
+  }
+  
+  .btn-offer {
+    text-align: left;
+  }
+  
+  .modal-form {
+    width: 50%;
+  }
+  
+  #personList {
+    width: 50%;
+  }
+  
+  .add-user {
+    margin-bottom: 30px;
+    font-size: 20px;
+  }
+  
+  .input-offer {
+    margin-bottom: 30px;
+  }
+  
+  .input-offer span {
+    width: 200px;
+    line-height: 2.1em;
+  }
+  
+  .input-border {
+    border: 1px solid black;
+  }
+  
+  input.input-border::placeholder {
+      color:#000;
+    }
+  
+  .table {
+    border-spacing: 0px;
+    border-collapse: collapse;
+    font-size: 20px;
+  }
+  
+  #form {
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #9b9b9bed;
+  }
+  
+  #form input {
+    width: 200px;
+    height: 40px;
+    padding-left: 10px;
+  }
+  
+  .select {
+    width: 214px;
+    height: 45px;
+    padding-left: 5px;
+    background-color: #fff;
+  }
+  
+  .table-name {
+    width: 150px;
+  }
+  
+  .table-phone {
+    width: 200px;
+  }
+
+  .table-boss {
+      width: 200px;
+  }
+  
+  .d-flex {
+    display: flex;
+  }
+  
+  input {
+    display: block;
+  }
+  
+  td {
+    width: 100px;
+    height: 40px;
+  }
+  
+  
+  
+  .d-block {
+    display: block;
+  }
+  
+  .d-none {
+    display: none;
+  }
+  
+  .btn {
+    width: 200px;
+    height: 50px;
+    background-color: #80808059;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+    margin-bottom: 50px;
+    line-height: 1.2em;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    outline:none;
+  }
+  
+  .btn:hover {
+    background-color: #fff;
+    outline: none;
+  }
+  
+  .btn:active:focus {
+    border: none;
+    outline:none;
+  }
+  
+  
